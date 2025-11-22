@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9a6373d118e0d498347c8bbe802b43, type: 3}
+  m_Name: DialogueRound1
+  m_EditorClassIdentifier: 
+  dialogueTurnList:
+  - character: {fileID: 11400000, guid: f8ffc4cfa013d0345a99307d4ba7b8ed, type: 2}
+    dialogueLine: "\xDAltimamente no pasa gente por aqu\xED, esta bien ver caras
+      nuevas de vez en cuando. "
+  - character: {fileID: 11400000, guid: 8c22f0bd3da1fd04b99992295c8a95ac, type: 2}
+    dialogueLine: "Gusano! No le hables al extra\xF1o... Es de color sospechoso... "
+  - character: {fileID: 11400000, guid: f8ffc4cfa013d0345a99307d4ba7b8ed, type: 2}
+    dialogueLine: "Tu tambi\xE9n eres de color sospechoso y nadie te dice nada. "
+  - character: {fileID: 11400000, guid: 8c22f0bd3da1fd04b99992295c8a95ac, type: 2}
+    dialogueLine: "\xA1Pero yo soy color CARAMELO! "
+  - character: {fileID: 11400000, guid: 8c22f0bd3da1fd04b99992295c8a95ac, type: 2}
+    dialogueLine: "Aparte yo soy la mas sigma cabra de por aqu\xED. "
+  - character: {fileID: 11400000, guid: f8ffc4cfa013d0345a99307d4ba7b8ed, type: 2}
+    dialogueLine: "Parece que nuestro compa\xF1ero esta de acuerdo conmigo..."
+  - character: {fileID: 11400000, guid: 8c22f0bd3da1fd04b99992295c8a95ac, type: 2}
+    dialogueLine: "\xA1Ya te digo yo que este tio no es de fiar!"
